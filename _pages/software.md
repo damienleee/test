@@ -4,10 +4,10 @@ permalink: /software/
 layout: splash
 author_profile: false
 feature_row:
-  - image_path: assets/images/avatar-icon.png
+  - image_path: assets/images/LEAPS2_icon.png
     alt: "LEAPS2"
     title: "LEAPS2"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+    excerpt: "Learning based Evolutionary Assistive Paradigm for Surrogate Selection"
     url: "/software/LEAPS2/"
     btn_label: "View"
     btn_class: "btn--primary"
