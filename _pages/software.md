@@ -33,10 +33,10 @@ feature_row2:
     url: "/software/PROAD_compressor/"
     btn_label: "View"
     btn_class: "btn--primary"
-  - image_path: assets/images/avatar-icon.png
+  - image_path: assets/images/cryotank.png
     alt: "Tank Dashboard"
     title: "Tank Dashboard"
-    excerpt: 'This is some sample content that goes here with **Markdown** formatting.'
+    excerpt: 'A simulation model for cryogenic tank storage.'
     url: "/software/tank/"
     btn_label: "View"
     btn_class: "btn--primary"

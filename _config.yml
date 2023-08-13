@@ -16,9 +16,7 @@
 title: Karimi's PSE Lab
 email:
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  The PSE lab at the National University of Singapore deals with Process Modeling, Synthesis, Integration, Optimization and Development.
 twitter_username: username
 github_username: username
 minimal_mistakes_skin: default
@@ -60,7 +58,7 @@ plugins:
 author:
   name   : "Karimi's PSE Lab"
   # avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "Process Systems Engineering (PSE)"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"

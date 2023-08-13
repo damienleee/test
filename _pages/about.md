@@ -3,6 +3,4 @@ permalink: /about/
 title: "About"
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
-
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+Iftekhar A Karimi is a Professor at the National University of Singapore. Professor Karimi specializes in Process Modeling, Synthesis, Integration, Optimization and Development; Energy Systems and Energy Efficiency; Machine Learning, Oil and Gas supply chains; Carbon Capture & Utilization; and Technoeconomic Assessments. His Process Systems Engineering (PSE) team helps guide the Green Energy Programme in the most promising directions. He has published extensively in the area of PSE, with >8000 citations till date, and has led many industry-collaborative research and consulting projects (e.g. SRC, SLNG, SPPG, Shell, Rolls-Royce, Qatargas). Professor Karimi’s work is also supported by NRF, NCCS, EMA, ExxonMobil and SgEC.
