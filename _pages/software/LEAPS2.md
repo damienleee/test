@@ -7,7 +7,7 @@ sidebar:
   - title: "LEAPS2"
     image: "/assets/images/LEAPS2_icon.png"
     image_alt: "image"
-    text: "Some text here."
+    text: "Learning based Evolutionary Assistive Paradigm for Surrogate Selection"
     nav: sidebar-sample
 toc: true
 ---
